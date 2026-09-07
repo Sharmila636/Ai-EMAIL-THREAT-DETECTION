@@ -1,0 +1,6 @@
+{
+  "name": "ThreatTrace SOC - Email Threat Intelligence Platform",
+  "description": "Smart India Hackathon 2026 (PS26106): AI-Powered Email Threat Detection, Geolocation & Forensic Intelligence Platform with hybrid ML risk engine, IOC extraction, and automated forensic reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
